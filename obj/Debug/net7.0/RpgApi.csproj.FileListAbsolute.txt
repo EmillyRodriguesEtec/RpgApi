@@ -31,3 +31,36 @@ D:\EmillyR-HenriqueN\RpgApi\obj\Debug\net7.0\refint\RpgApi.dll
 D:\EmillyR-HenriqueN\RpgApi\obj\Debug\net7.0\RpgApi.pdb
 D:\EmillyR-HenriqueN\RpgApi\obj\Debug\net7.0\RpgApi.genruntimeconfig.cache
 D:\EmillyR-HenriqueN\RpgApi\obj\Debug\net7.0\ref\RpgApi.dll
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\RpgApi.AssemblyInfo.cs
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\RpgApi.dll
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\refint\RpgApi.dll
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\RpgApi.pdb
+C:\Users\Emilly Rodrigues\RpgApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Emilly Rodrigues\RpgApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Emilly Rodrigues\RpgApi\bin\Debug\net7.0\RpgApi.exe
+C:\Users\Emilly Rodrigues\RpgApi\bin\Debug\net7.0\RpgApi.deps.json
+C:\Users\Emilly Rodrigues\RpgApi\bin\Debug\net7.0\RpgApi.runtimeconfig.json
+C:\Users\Emilly Rodrigues\RpgApi\bin\Debug\net7.0\RpgApi.dll
+C:\Users\Emilly Rodrigues\RpgApi\bin\Debug\net7.0\RpgApi.pdb
+C:\Users\Emilly Rodrigues\RpgApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Emilly Rodrigues\RpgApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Emilly Rodrigues\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Emilly Rodrigues\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Emilly Rodrigues\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgApi.props
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\RpgApi.csproj.CopyComplete
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\RpgApi.genruntimeconfig.cache
+C:\Users\Emilly Rodrigues\RpgApi\obj\Debug\net7.0\ref\RpgApi.dll
